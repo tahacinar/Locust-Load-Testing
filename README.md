@@ -9,3 +9,6 @@
 2. POST
 3. PUT
 4. DELETE
+
+## Detaylı Rapor
+[Locust Rapor ](https://github.com/tahacinar/Locust-Load-Testing/blob/master/report_1713789118.1092997.html)
